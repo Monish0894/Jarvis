@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "moni",
+			"path": "."
+		},
+		{
+			"name": "engine",
+			"path": "../jarvisyu/engine"
+		},
+		{
+			"name": "www",
+			"path": "../jarvisyu/www"
+		}
+	],
+	"settings": {}
+}
